@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dnovo6/static/css/main.863b13dc.css",
+    "main.js": "/dnovo6/static/js/main.9e01a121.js",
+    "static/js/453.47588d8f.chunk.js": "/dnovo6/static/js/453.47588d8f.chunk.js",
+    "index.html": "/dnovo6/index.html",
+    "main.863b13dc.css.map": "/dnovo6/static/css/main.863b13dc.css.map",
+    "main.9e01a121.js.map": "/dnovo6/static/js/main.9e01a121.js.map",
+    "453.47588d8f.chunk.js.map": "/dnovo6/static/js/453.47588d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.863b13dc.css",
+    "static/js/main.9e01a121.js"
+  ]
+}
